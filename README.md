@@ -5,6 +5,9 @@ Makes use of the mintapi library to extract and process transaction from mint
 * capture and categorize data on a daily/weekly basis
 * visualize trends
 * automate budget insights
+  
+## Potential Features
+* add a feature that hypes you up for completing financial goals
 
 ## To-Do
 * format dates
