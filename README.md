@@ -5,6 +5,8 @@ Makes use of the mintapi library to extract and process transaction from mint
 * capture and categorize data on a daily/weekly basis
 * visualize trends
 * automate budget insights
+* automated reporting/snapshots over time
+* upload a budget
   
 ## Potential Features
 * add a feature that hypes you up for completing financial goals
@@ -16,6 +18,7 @@ Makes use of the mintapi library to extract and process transaction from mint
 * automate extracts
 * store data in google sheets
 * store data in a db
+* check to be sure that update has no impact on API
 
 ## Resources
 * [mintapi](https://github.com/mrooney/mintapi)
