@@ -7,6 +7,7 @@ Makes use of the mintapi library to extract and process transaction from mint
 * automate budget insights
 * automated reporting/snapshots over time
 * upload a budget
+* add the ability to implement budget scenarios
   
 ## Potential Features
 * add a feature that hypes you up for completing financial goals
