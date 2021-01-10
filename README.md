@@ -11,6 +11,8 @@ Makes use of the mintapi library to extract and process transaction from mint
   
 ## Potential Features
 * add a feature that hypes you up for completing financial goals
+* reminders of bills in advance
+* identify recurring transactions
 
 ## Budget Categories
 * Housing
