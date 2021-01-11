@@ -1,6 +1,9 @@
 # budget
 Makes use of the mintapi library to extract and process transaction from mint
 
+## Last Run
+2020-01-11
+
 ## Goals
 * capture and categorize data on a daily/weekly basis
 * visualize trends
