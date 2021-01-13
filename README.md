@@ -32,7 +32,7 @@ Makes use of the mintapi library to extract and process transaction from mint
 * date range extract
 * automate extracts
 * store data in google sheets
-* store data in a db
+* store data in a db (sqlite, postgres)
 * check to be sure that update has no impact on API
 * identify vendors
 
