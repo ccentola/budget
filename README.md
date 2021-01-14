@@ -17,6 +17,12 @@ Makes use of the mintapi library to extract and process transaction from mint
 * reminders of bills in advance
 * identify recurring transactions
 
+## Visualizations
+* spend by category/sub-category
+* forecast vs actual
+* current month vs last month/last year same time period
+* spending trend/forecast
+
 ## Budget Categories
 * Housing
 * Utilities
