@@ -11,6 +11,7 @@ Makes use of the mintapi library to extract and process transaction from mint
 * automated reporting/snapshots over time
 * upload a budget
 * add the ability to implement budget scenarios
+* recon process - identify transactions to help improve classification model
   
 ## Potential Features
 * add a feature that hypes you up for completing financial goals
@@ -22,6 +23,11 @@ Makes use of the mintapi library to extract and process transaction from mint
 * forecast vs actual
 * current month vs last month/last year same time period
 * spending trend/forecast
+* needs vs wants
+* fixed vs variable
+* largest spend across all categories
+* major purchases
+
 
 ## Budget Categories
 * Housing
