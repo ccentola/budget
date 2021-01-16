@@ -17,6 +17,7 @@ Makes use of the mintapi library to extract and process transaction from mint
 * add a feature that hypes you up for completing financial goals
 * reminders of bills in advance
 * identify recurring transactions
+* project earnings potential
 
 ## Visualizations
 * spend by category/sub-category
@@ -27,7 +28,6 @@ Makes use of the mintapi library to extract and process transaction from mint
 * fixed vs variable
 * largest spend across all categories
 * major purchases
-
 
 ## Budget Categories
 * Housing
